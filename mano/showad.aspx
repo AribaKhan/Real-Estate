@@ -45,7 +45,7 @@
     <input type="radio" id="s-option" name="selector" onclick="showRent();"/>
     <label for="s-option">RENT</label>
     <textarea id="text-rent" style="display: none;" rows=10 cols=50></textarea>   
-    <div class="check"><div class="inside"></div></div>
+    <div class="check"></div>
   </li>
   </ul>
 
